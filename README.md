@@ -3,7 +3,6 @@ A docker image for building and testing node code using yarn and chrome headless
 
 ## Contains
 
-- Node 8
+- Node lts
 - Google chrome (for headless testing)
-- Yarn (included in the node:8 image)
-
+- Yarn (included in the node:lts image)
